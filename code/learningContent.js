@@ -48,7 +48,7 @@ const DATA = {
                 "סדר העברת דיווחים בבה\"ד 10": [
                     {
                         cardType: "picAndText",
-                        pic: "/assets/images/image1.jpeg",
+                        pic: "../assets/images/image1.jpeg",
                         content: ""
                     }
                 ]
@@ -300,7 +300,7 @@ const DATA = {
                 "פירוט אישור / איסור להגעה עם הרכבים פרטיים ליחידה": [
                     {
                         cardType: "picAndText",
-                        pic: "/assets/images/image0.jpeg",
+                        pic: "../assets/images/image0.jpeg",
                         content: ""
                     }
                 ]
