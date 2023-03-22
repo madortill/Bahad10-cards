@@ -300,7 +300,7 @@ const DATA = {
                 "פירוט אישור / איסור להגעה עם הרכבים פרטיים ליחידה": [
                     {
                         cardType: "picAndText",
-                        pic: "../assets/images/image0.jpeg",
+                        pic: "assets/images/image0.jpeg",
                         content: ""
                     }
                 ]
