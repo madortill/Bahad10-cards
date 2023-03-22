@@ -22,7 +22,7 @@ const TIME_FOR_EXAM = "11:00";
     /* amountOfQuestions - max number of questions from the subject that will appear in the test*/
 const DATA = { 
     "נוהל העברת דיווחים בבה\"ד": {
-        "icon":  "../assets/images/icon.jpeg",
+        "icon":  "../assets/images/icon.png",
         "learningContent": {
             "נוהל מס.1": {
                 "נוהל העברת דיווחים בבה\"ד": [ 
@@ -56,7 +56,7 @@ const DATA = {
         },
     },
     "נוהל דיווח באירוע בטיחות": {
-        "icon":  "../assets/images/icon.jpeg",
+        "icon":  "../assets/images/icon.png",
         "learningContent": {
             "נוהל מס.2": {
                 "הגדרה": [
@@ -85,7 +85,7 @@ const DATA = {
         }
     },
     "אירוע שעת זהב": {
-        "icon":  "../assets/images/icon.jpeg",
+        "icon":  "../assets/images/icon.png",
         "learningContent": {
             "נוהל מס.3": {
                 "הגדרה": [
@@ -127,7 +127,7 @@ const DATA = {
     },
     // שם נושא
     "נוהל שלילת חופשה": {
-        "icon":  "../assets/images/icon.jpeg",
+        "icon":  "../assets/images/icon.png",
         "learningContent": {
             // סוג הכרטיסייה
             "נוהל מס.8": {
@@ -280,7 +280,7 @@ const DATA = {
         },
     },
     "נוהל הגעת משרתים עם רכבים פרטיים לבסיס": {
-        "icon":  "../assets/images/icon.jpeg",
+        "icon":  "../assets/images/icon.png",
         "learningContent": {
             "נוהל מס.9": {
                 "מטרת הנוהל": [
@@ -308,7 +308,7 @@ const DATA = {
         }
     },
     "נוהל נהג ומפקד משימה בבה\"ד 10": {
-        "icon":  "../assets/images/icon.jpeg",
+        "icon":  "../assets/images/icon.png",
         "learningContent": {
             "נוהל מס.10": {
                 "הגדרת בע\"ת": [
@@ -365,7 +365,7 @@ const DATA = {
         }
     },
     "נוהל הגבלת שעות פעילות ונוכחות במשרדים": {
-        "icon":  "../assets/images/icon.jpeg",
+        "icon":  "../assets/images/icon.png",
         "learningContent": {
             "נוהל מס.11": {
                 "כללי": [
@@ -391,7 +391,7 @@ const DATA = {
         }
     },
     "נוהל תורנות מב\"ס תורן": {
-        "icon":  "../assets/images/icon.jpeg",
+        "icon":  "../assets/images/icon.png",
         "learningContent": {
             "נוהל מס.12": {
                 "כללי": [
@@ -452,7 +452,7 @@ const DATA = {
         }
     },
     "נוהל מדיניות סיורי חינוך": {
-        "icon":  "../assets/images/icon.jpeg",
+        "icon":  "../assets/images/icon.png",
         "learningContent": {
             "נוהל מס.13": {
                 "כללי": [
@@ -492,7 +492,7 @@ const DATA = {
         }
     },
     "נוהל תרגול נוסף": {
-        "icon":  "../assets/images/icon.jpeg",
+        "icon":  "../assets/images/icon.png",
         "learningContent": {
             "נוהל מס.14": {
                 "כללי": [
